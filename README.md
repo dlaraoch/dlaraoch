@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
 
 <p> My name is Deisy Lara, and I’m a UX/UI Designer based in San Francisco, CA. Growing up as a first generation LatinX with a learning disability, I have cultivated a special interest in diversity, inclusivity, and accessible design for all. By streamlining a user’s journey in ways others haven’t thought about, we can make a huge impact in people’s daily lives. All it takes is having that different perspective to conduct unique research and data analysis. This is where I step in.
 
